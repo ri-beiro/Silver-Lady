@@ -52,7 +52,7 @@ export function HeroSection() {
               style={{ fontFamily: "'Playfair Display', serif" }}
             >
               Joias dignas de uma{" "}
-              <span className="text-purple-700">rainha.</span>
+              <span className="text-purple-700">Rainha.</span>
             </motion.h1>
 
             <motion.p
