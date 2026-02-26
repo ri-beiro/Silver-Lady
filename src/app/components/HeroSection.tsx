@@ -3,7 +3,10 @@ import { motion } from "framer-motion";
 
 export function HeroSection() {
   return (
-    <section id="inicio" className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20">
+    <section
+      id="inicio"
+      className="relative min-h-[100dvh] flex items-center justify-center overflow-hidden pt-20"
+    >
       {/* Background Pattern */}
       <div className="absolute inset-0 bg-gradient-to-br from-purple-50 via-white to-purple-50">
         <div className="absolute inset-0 opacity-5">
@@ -25,7 +28,7 @@ export function HeroSection() {
         </div>
       </div>
 
-      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32">
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-32">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Left Content */}
           <div className="text-center lg:text-left">
@@ -36,29 +39,32 @@ export function HeroSection() {
               className="inline-flex items-center gap-2 bg-purple-100 text-purple-700 px-4 py-2 rounded-full mb-6"
             >
               <Sparkles className="w-4 h-4" />
-              <span className="text-sm font-medium">Coleção Exclusiva 2026</span>
+              <span className="text-sm font-medium">
+                Coleção Exclusiva 2026
+              </span>
             </motion.div>
-            
+
             <motion.h1
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.2 }}
-              className="mb-6 text-gray-900"
-              style={{ fontFamily: "'Playfair Display', serif", fontSize: "60px", fontWeight: 600, lineHeight: 1.2 }}
+              className="mb-6 text-gray-900 text-4xl sm:text-5xl lg:text-6xl font-semibold leading-tight"
+              style={{ fontFamily: "'Playfair Display', serif" }}
             >
               Joias dignas de uma{" "}
               <span className="text-purple-700">rainha.</span>
             </motion.h1>
-            
+
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.4 }}
               className="text-lg md:text-xl text-gray-600 mb-8 max-w-xl"
             >
-              Descubra a elegância em cada detalhe. Peças únicas que celebram sua força e sofisticação.
+              Descubra a elegância em cada detalhe. Peças únicas que celebram
+              sua força e sofisticação.
             </motion.p>
-            
+
             <motion.a
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -79,14 +85,14 @@ export function HeroSection() {
             transition={{ duration: 0.8, delay: 0.3 }}
             className="relative"
           >
-            <div className="relative w-[450px] h-[450px] mx-auto lg:mx-0 rounded-full overflow-hidden shadow-2xl">
+            <div className="relative w-72 h-72 sm:w-80 sm:h-80 lg:w-[450px] lg:h-[450px] mx-auto lg:mx-0 rounded-full overflow-hidden shadow-2xl">
               <img
                 src="/Silver Lady LOGO.jpeg"
                 alt="Elegant Jewelry"
                 className="w-full h-auto object-cover"
               />
             </div>
-            
+
             {/* Floating Elements */}
             <motion.div
               animate={{ y: [0, -20, 0] }}
