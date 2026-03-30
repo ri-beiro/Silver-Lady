@@ -720,6 +720,215 @@ const PRODUCTS: Product[] = [
     ],
   },
   {
+    id: "SKU 0429",
+    name: "Brincos Earcuff Losangos",
+    price: 31.5,
+    category: "Brincos",
+    description: "Brincos Losangos Vazados Prata",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/9c86bd2d-6aab-4266-815c-064a1fa2d20a.webp",
+    ],
+  },
+  {
+    id: "SKU 1284",
+    name: "Brincos Argolas Coração",
+    price: 122.3,
+    category: "Brincos",
+    description: "Brincos Argola Coração GG Prata",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/52d10e1b-b9a5-4043-967b-13755176a4cf.webp",
+    ],
+  },
+  {
+    id: "SKU 1551",
+    name: "Brincos Argolas Infinito",
+    price: 86.0,
+    category: "Brincos",
+    description: "Brincos Argola Infinito Fio Reto",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/87fac2b3-b297-4c57-a58a-c0ca63df0e51.webp",
+    ],
+  },
+  {
+    id: "SKU 1705",
+    name: "Brincos Pedra Quadrada",
+    price: 38.0,
+    category: "Brincos",
+    description: "Brincos Pedra Quadrada Branca 8mm",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/70de1e2d-0fd9-4498-bc00-02a9c489855b.webp",
+    ],
+  },
+  {
+    id: "SKU 1708",
+    name: "Brincos Pedra Retangulo",
+    price: 36.3,
+    category: "Brincos",
+    description: "Brincos Pedra Retangulo Branca 7x9mm",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/721a2c5e-5cbf-467f-a3a9-9c3e12595916.webp",
+    ],
+  },
+  {
+    id: "SKU 1877",
+    name: "Brincos Earcuff Folhas",
+    price: 64.8,
+    category: "Brincos",
+    description: "Brincos Earcuff Folhas Vazadas Prata",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/526f626a-0751-435f-ba66-9db4ae36e52d.webp",
+    ],
+  },
+  {
+    id: "SKU 1951",
+    name: "Brincos Argolas Redondas",
+    price: 21.0,
+    category: "Brincos",
+    description: "Brincos Argolas Redondas P",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/5f28e9b8-937a-4d1f-a4fd-f84feaae511c.webp",
+    ],
+  },
+  {
+    id: "SKU 198",
+    name: "Brincos Coração Liso",
+    price: 56.5,
+    category: "Brincos",
+    description: "Brincos Coração Liso/Trabalhado",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/a1280044-6180-47af-b6cb-937fbcc9f286.webp",
+    ],
+  },
+  {
+    id: "SKU 207",
+    name: "Brincos Botão Liso",
+    price: 51.0,
+    category: "Brincos",
+    description: "Brincos Botão Liso P Prata",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/0a954a77-9b8a-4f40-bc3f-6555d31b5a64.webp",
+    ],
+  },
+  {
+    id: "SKU 209",
+    name: "Brincos Botão Mandala",
+    price: 81.0,
+    category: "Brincos",
+    description: "Brincos Botão Mandala Prata",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/c0276d97-d0a0-49aa-a87c-57e2cb3f9c67.webp",
+    ],
+  },
+  {
+    id: "SKU 216",
+    name: "Brincos Botão Mandala",
+    price: 75.0,
+    category: "Brincos",
+    description: "Brincos Botão Mandala Prata",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/22170ae8-7e7f-4dd3-a70d-9658e53f3142.webp",
+    ],
+  },
+  {
+    id: "SKU 2451",
+    name: "Brincos Argola Redondo",
+    price: 75.0,
+    category: "Brincos",
+    description: "Brincos Botão Argola Redonda Prata",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/26c672f3-a316-4187-a7e1-4b2b6c138b5c.webp",
+      "https://img1.conectavenda.com.br/e_y_mourad/900/5a2a00f9-5600-49f9-abac-1a8783ed8857.webp",
+    ],
+  },
+  {
+    id: "SKU 2595",
+    name: "Brincos Argola Redondo",
+    price: 22.0,
+    category: "Brincos",
+    description: "Brincos Botão Argola Redonda M Prata",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/cc09f69d-3674-4d73-add9-5f4e98f0c683.webp",
+      "https://img1.conectavenda.com.br/e_y_mourad/900/0db3b045-f8b4-4eeb-a115-d5764a521883.webp",
+    ],
+  },
+  {
+    id: "SKU 2632",
+    name: "Brincos Patinhas Pet",
+    price: 30.0,
+    category: "Brincos",
+    description: "Brincos Patinhas Vazadas Prata",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/c074c6dd-76f9-4156-84ec-bb27e38fa103.webp",
+    ],
+  },
+  {
+    id: "SKU 2638",
+    name: "Brincos Coração Cravejado",
+    price: 90.0,
+    category: "Brincos",
+    description: "Brincos Coração Cravejado Vazado",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/296fd7ac-c6cf-4b3f-9407-c3eb7c09d925.webp",
+    ],
+  },
+  {
+    id: "SKU 2725",
+    name: "Brincos Gota Dupla",
+    price: 36.0,
+    category: "Brincos",
+    description: "Brincos Gota Dupla - Cores",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/9729b482-c829-4125-b538-1ef466e60515.webp",
+      "https://img1.conectavenda.com.br/e_y_mourad/900/42396124-cae1-455b-a793-0ef18d1de5f3.webp",
+      "https://img1.conectavenda.com.br/e_y_mourad/900/751c09da-6c45-46fa-a072-2287a06af5e1.webp",
+      "https://img1.conectavenda.com.br/e_y_mourad/900/521562e7-ced4-48b8-86d1-1e0e91f998a0.webp",
+      "https://img1.conectavenda.com.br/e_y_mourad/900/0ed981fb-b132-428f-9a1d-354fd5ae5c9d.webp",
+    ],
+  },
+  {
+    id: "SKU 2788",
+    name: "Brincos Redondo Cravejado",
+    price: 144.0,
+    category: "Brincos",
+    description: "Brincos Redondo Cravejado - Prata e Cores",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/d69d46b4-22ee-4d25-92e1-ae830d260307.webp",
+      "https://img1.conectavenda.com.br/e_y_mourad/900/4211e1ba-5fc9-4d4c-90da-82203295bb93.webp",
+    ],
+  },
+  {
+    id: "SKU 2839",
+    name: "Brincos Argola Estrela",
+    price: 52.0,
+    category: "Brincos",
+    description: "Brincos Argola Estrela Vazada M Prata",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/c20f68bf-bcfd-4703-b784-6034491ea9b2.webp",
+      "https://img1.conectavenda.com.br/e_y_mourad/900/6b6c2b5a-1c8b-4a85-ba8e-a356722b6468.webp",
+    ],
+  },
+  {
+    id: "SKU 2872",
+    name: "Brincos Argola Estrela",
+    price: 78.0,
+    category: "Brincos",
+    description: "Brincos Argola Estrela Vazada G Prata",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/cb5de147-1470-492d-b542-0c0d36ea3203.webp",
+      "https://img1.conectavenda.com.br/e_y_mourad/900/184a1493-2388-404b-98ba-7647b36a0c7c.webp",
+    ],
+  },
+  {
+    id: "SKU 4002138",
+    name: "Brincos Coração",
+    price: 29.0,
+    category: "Brincos",
+    description: "Brincos Coração Pedra 8x8mm Prata/Zirc",
+    images: [
+      "https://img1.conectavenda.com.br/e_y_mourad/900/4b0dc333-fcf0-4408-a44e-5bb6d7addb59.webp",
+    ],
+  },
+  {
     id: "SKU 1642",
     name: "Tornozeleira Feminina Corações",
     price: 78.0,
@@ -1233,12 +1442,14 @@ export default function App() {
   "Todos",
   "Anéis Femininos",
   "Anéis Masculinos",
+  "Brincos",
   "Conjuntos",
   "Correntes",
   "Pingentes",
   "Pulseiras Femininas",
   "Pulseiras Masculinas",
   "Tornozeleiras",
+  
 ];
 
 const [selectedCategory, setSelectedCategory] = useState("Todos");
